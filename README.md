@@ -1,4 +1,2 @@
-# Week 2 Homework 2
-Lists in kotlin
-
-### References 
+# Lists in kotlin - Tuwaiq Academy
+WEEK 2 Homework 2
